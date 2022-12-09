@@ -1,0 +1,25 @@
+﻿EGFR tyrosine kinase inhibitor resistance,hsa01521  ,GSK3 Related
+ErbB signaling pathway,hsa04012  ,GSK3 Related
+Chemokine signaling pathway,hsa04062  ,GSK3 Related
+Insulin signaling pathway,hsa04910  ,GSK3 Related
+Cell cycle,hsa04110  ,GSK3 Related
+mTOR signaling pathway,hsa04150  ,GSK3 Related
+Wnt signaling pathway,hsa04310  ,GSK3 Related
+Hippo signaling pathway,hsa04390  ,GSK3 Related
+Focal adhesion,hsa04510  ,GSK3 Related
+IL-17 signaling pathway,hsa04657  ,GSK3 Related
+T cell receptor signaling pathway,hsa04660  ,GSK3 Related
+B cell receptor signaling pathway,hsa04662  ,GSK3 Related
+Apoptosis,hsa04210,Apoptosis related
+MAPK signaling pathway,hsa04010  ,Apoptosis related
+Calcium signaling pathway,hsa04020  ,Apoptosis related
+NF-kappa B signaling pathway,hsa04064  ,Apoptosis related
+p53 signaling pathway,hsa04115  ,Apoptosis related
+Protein processing in endoplasmic reticulum,hsa04141  ,Apoptosis related
+PI3K-Akt signaling pathway,hsa04151  ,Apoptosis related
+Natural killer cell mediated cytotoxicity,hsa04650  ,Apoptosis related
+TNF signaling pathway,hsa04668  ,Apoptosis related
+Fc gamma R-mediated phagocytosis,hsa04666,Phagocytosis related
+Lysosome,hsa04142  ,Phagocytosis related
+Endocytosis,hsa04144  ,Phagocytosis related
+Regulation of actin cytoskeleton,hsa04810  ,Phagocytosis related
